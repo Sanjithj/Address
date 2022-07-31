@@ -9,6 +9,7 @@ class Contact{
         this.phone_number = phone_number
         this.email = email
     }
+    
     get FirstName() {
         return this.first_name;
     }
